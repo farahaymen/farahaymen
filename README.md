@@ -18,8 +18,8 @@
 
 ## 🔭 About Me
 - 🎓 **Teaching assistant** at the Faculty of Informatics and Computer Science, The British University in Egypt.
-- 🧠  Researcher on **NLP**, **Deep Learning**, **Computer Vision**, **Generative AI**, **Agentic AI**.
-- 📚 Created and taught courses on **Reinforcement Learning**, **NLP**, **Agentic AI**, **Operationg Systems**.
+- 🧠  Researcher in **NLP**, **Deep Learning**, **Computer Vision**, **Generative AI**.
+- 📚 Created and taught courses on **Reinforcement Learning**, **NLP**, **Agentic AI**, **Operating Systems**.
 
 ---
 
