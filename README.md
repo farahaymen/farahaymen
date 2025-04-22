@@ -2,7 +2,7 @@
   <img src="https://komarev.com/ghpvc/?username=farah-aymen&color=blue" alt="profile views"/>
 </p>
 
-<h1 align="center">Hi, I’m Farah Aymen 👋</h1>
+<h1 align="center">Well, Hello There! I’m Farah Aymen 👋</h1>
 <p align="center">
   <em>Teaching Assistant, Faculty of Computer Science  •  AI Researcher & Educator • MSc Student </em><br>
   <a href="https://www.linkedin.com/in/farah-aymen-2ba8a71b2/">
