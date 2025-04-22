@@ -1,6 +1,4 @@
-<!-- <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=farah-aymen&color=blue" alt="profile views"/>
-</p> --!>
+
 
 <h1 align="center">Well, Hello There! I’m Farah Aymen 👋</h1>
 <p align="center">
