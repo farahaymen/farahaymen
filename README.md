@@ -8,7 +8,7 @@
   <a href="https://www.linkedin.com/in/farah-aymen-2ba8a71b2/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:farah.aymen@example.com">
+  <a href="mailto:xxfarah600xx@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://orcid.org/0009-0009-6210-970X">
