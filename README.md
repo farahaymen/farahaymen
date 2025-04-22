@@ -35,6 +35,18 @@
 
 ---
 
+## 📝 Publications
+[![Google Scholar](https://img.shields.io/badge/Google–Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=MVng0zAAAAAJ&hl=en)
+
+
+---
+---
+## 🌟 Talks & Workshops
+- Keynote: “AI and the Challenge of Unreliable Information” at **2024**  
+- Workshop: “Fundamentals of AI” at **School of Continuing Education, 2025**  
+- Keynote: “Multimodal Vision Transformers and How They Excelled” at **2024**
+
+---
 <!--## 🚀 Featured Projects
 | Project | Description | Link |
 |:---|:---|:---|
@@ -47,11 +59,7 @@
 
 --- -->
 
-## 📝 Publications
-[![Google Scholar](https://img.shields.io/badge/Google–Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=MVng0zAAAAAJ&hl=en)
 
-
----
 
 ## 📈 GitHub Stats
 <p align="center">
