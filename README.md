@@ -1,29 +1,37 @@
+<h1 align="center">✨ Well, Hello There! I’m Farah Aymen 👋</h1>
 
-
-<h1 align="center">Well, Hello There! I’m Farah Aymen 👋</h1>
 <p align="center">
-  <em>Teaching Assistant, Faculty of Computer Science  •  AI Researcher & Educator • MSc Student </em><br>
+  <em>Teaching Assistant • AI Researcher & Educator • MSc Student</em><br>
   <a href="https://www.linkedin.com/in/farah-aymen-2ba8a71b2/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:xxfarah600xx@gmail.com">
+  <a href="mailto:farah.a.monir@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://orcid.org/0009-0009-6210-970X">
-    <img src="https://img.shields.io/badge/ORCID-0000--0009--6210--970X-green?style=for-the-badge&logo=orcid&logoColor=white"/>
+    <img src="https://img.shields.io/badge/ORCID-0009--0009--6210--970X-green?style=for-the-badge&logo=orcid&logoColor=white"/>
   </a>
 </p>
 
 ---
 
-## 🔭 About Me
-- 🎓 **Teaching assistant** at the Faculty of Informatics and Computer Science, The British University in Egypt.
-- 🧠  Researcher in **NLP**, **Deep Learning**, **Computer Vision**, **Generative AI**.
-- 📚 Created and taught courses on **Reinforcement Learning**, **NLP**, **Agentic AI**, **Operating Systems**.
+## 🌍 About Me  
+- 🎓 **Teaching Assistant** at the Faculty of Informatics & Computer Science, The British University in Egypt.  
+- 🧠 Researcher in **AI**, **Deep Learning**, **NLP**, **Computer Vision**, and **Generative AI**.  
+- 📚 Instructor for courses including **Generative AI**, **Reinforcement Learning**, **Agentic AI**, **Natural Language Processing**, and **Operating Systems**.  
+- 🧩 Combining **research, teaching, and open-source** to explore how AI can enhance reasoning, creativity, and scientific discovery.
 
 ---
 
-## 🛠️ Tech & Tools
+## 🧪 Current Focus & Research Themes  
+- 🔬 **Kolmogorov–Arnold Networks (KANs)** — exploring polynomial-based activation alternatives to B-splines for interpretable deep learning.  
+- 🧩 **LLM Memory Architectures** — developing secure, graph-based memory and RAG frameworks for digital forensics and threat reasoning.  
+- 🧠 **Agentic AI** — designing multi-agent frameworks for academic writing, reasoning, and personalized AI tutoring.  
+- 📊 **AI Education & Explainability** — creating modular, open-access curricula to make advanced AI topics more accessible to students.
+
+---
+
+## ⚙️ Tech & Tools  
 <p>
   <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white" />
   <img alt="PyTorch" src="https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch&logoColor=white" />
@@ -35,36 +43,32 @@
 
 ---
 
-## 📝 Publications
+## 📝 Publications  
 [![Google Scholar](https://img.shields.io/badge/Google–Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=MVng0zAAAAAJ&hl=en)
 
+---
 
----
----
-## 🌟 Talks & Workshops
-- Keynote: “AI and the Challenge of Unreliable Information” at **2024**  
-- Workshop: “Fundamentals of AI” at **School of Continuing Education, 2025**  
-- Keynote: “Multimodal Vision Transformers and How They Excelled” at **2024**
-
----
-<!--## 🚀 Featured Projects
+## 🚀 Featured Projects  
 | Project | Description | Link |
 |:---|:---|:---|
-| **DeepOKAN** | KANs with Gaussian RBFs & alternative polynomial bases for surrogate modeling in mechanics problems | [github.com/.../DeepOKAN](#) |
-| **ECG Forecasting** | PyTorch pipeline for ECG heart‑rate forecasting using Chebyshev‑based KANs | [github.com/.../ECG-KAN](#) |
-| **ViT Lecture Series** | Interactive Jupyter notebooks & slides on Vision Transformer architectures and applications | [github.com/.../ViT-Lectures](#) |
-| **LangChain RAG Demos** | Zero‑API‑key Retrieval‑Augmented QA with free LLMs & FAISS vectors | [github.com/.../LangChain-RAG](#) |
-| **BibTeX Automation** | Python scripts to fetch DOI metadata and convert to BibLaTeX, preserving entry order | [github.com/.../bibtex-auto](#) |
-| **GPU CFD Sims** | Real‑time 2D Navier–Stokes & mixing‑layer visualizations on CUDA via MATLAB | [github.com/.../GPU-CFD](#) |
+| **DeepOKAN** | KANs with Gaussian RBFs & polynomial activations for physics-informed learning | [GitHub](#) |
+| **ECG Forecasting** | Chebyshev-based KANs for ECG time-series prediction | [GitHub](#) |
+| **LangChain RAG Demos** | Secure, local Retrieval-Augmented Generation with open-source LLMs | [GitHub](#) |
+| **GraphRAG Threat Reasoner** | Knowledge Graph + RAG hybrid for AI-assisted digital forensics | [GitHub](#) |
 
---- -->
+---
 
-
-
-## 📈 GitHub Stats
+## 📈 GitHub Stats  
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=farahaymen&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
 
 ---
 
+## 🌈 Fun Facts  
+- 🧩 I love connecting math theory to AI architecture design.  
+- ☕ Survive on coffee, code, and conference deadlines.  
+- 💡 Currently mentoring students in AI.  
+- 🧠 Working on “Mixture-of-Memories” — an interpretable LLM memory framework.
+
+---
