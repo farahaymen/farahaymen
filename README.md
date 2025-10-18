@@ -24,10 +24,10 @@
 ---
 
 ## 🧪 Current Focus & Research Themes  
-- 🔬 **Kolmogorov–Arnold Networks (KANs)** — exploring polynomial-based activation alternatives to B-splines for interpretable deep learning.  
-- 🧩 **LLM Memory Architectures** — developing secure, graph-based memory and RAG frameworks for digital forensics and threat reasoning.  
-- 🧠 **Agentic AI** — designing multi-agent frameworks for academic writing, reasoning, and personalized AI tutoring.  
-- 📊 **AI Education & Explainability** — creating modular, open-access curricula to make advanced AI topics more accessible to students.
+- 🔬 **Kolmogorov–Arnold Networks (KANs)**: exploring polynomial-based activation alternatives to B-splines for interpretable deep learning.  
+- 🧩 **Agentic Architectures**: developing secure, graph-based memory and RAG frameworks for digital forensics and threat reasoning.  
+- 🧠 **Agentic AI**: designing multi-agent frameworks for academic writing, reasoning, and personalized AI tutoring.  
+- 📊 **AI Education & Explainability**: creating modular, open-access curricula to make advanced AI topics more accessible to students.
 
 ---
 
@@ -48,6 +48,7 @@
 
 ---
 
+<!-- 
 ## 🚀 Featured Projects  
 | Project | Description | Link |
 |:---|:---|:---|
@@ -56,7 +57,8 @@
 | **LangChain RAG Demos** | Secure, local Retrieval-Augmented Generation with open-source LLMs | [GitHub](#) |
 | **GraphRAG Threat Reasoner** | Knowledge Graph + RAG hybrid for AI-assisted digital forensics | [GitHub](#) |
 
----
+--- 
+-->
 
 ## 📈 GitHub Stats  
 <p align="center">
