@@ -1,7 +1,7 @@
 <h1 align="center">✨ Well, Hello There! I’m Farah Aymen 👋</h1>
 
 <p align="center">
-  <em>Teaching Assistant • AI Researcher & Educator • MSc Student</em><br>
+  <em>Assistant Lecturer • AI Researcher & Educator • MSc in Computer Science </em><br>
   <a href="https://www.linkedin.com/in/farah-aymen-2ba8a71b2/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
@@ -16,7 +16,7 @@
 ---
 
 ## 🌍 About Me  
-- 🎓 **Teaching Assistant** at the Faculty of Informatics & Computer Science, The British University in Egypt.  
+- 🎓 **Assistant Lecturer** at the Faculty of Informatics & Computer Science, The British University in Egypt.  
 - 🧠 Researcher in **AI**, **Deep Learning**, **NLP**, **Computer Vision**, and **Generative AI**.  
 - 📚 Instructor for courses including **Generative AI**, **Reinforcement Learning**, **Agentic AI**, **Natural Language Processing**, and **Operating Systems**.  
 - 🧩 Combining **research, teaching, and open-source** to explore how AI can enhance reasoning, creativity, and scientific discovery.
